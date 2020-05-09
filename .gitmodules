@@ -1,0 +1,3 @@
+[submodule "tools/cnt"]
+	path = tools/cnt
+	url = https://github.com/gkoos/cnt.git
